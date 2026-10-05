@@ -1,0 +1,6 @@
+{
+  "name": "GYM RAT 1618 - Gym & Fitness Center",
+  "description": "Train Hard. Stay Strong. Be Consistent. Gym Rat 1618 is an affordable, friendly, and well-equipped gym featuring strength training, cardio, free weights, and dedicated fitness zones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
